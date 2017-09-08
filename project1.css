@@ -1,0 +1,50 @@
+
+
+h1{
+	
+	color: purple;
+
+}
+
+.MainTitle{
+
+
+
+	width: 100%; 
+	hight: 100px;
+	
+}
+
+nav{
+
+	max-width: : 100px;
+	float: left;
+	margin:0px;
+	padding: 1em;
+	width: 25%;
+
+
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+   
+nav ul a {
+    text-decoration: none;
+}
+
+.columnCenter{
+
+float: right;
+margin:10px;
+
+
+}
+
+article{
+
+	justify-content: center;
+}
